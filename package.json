@@ -1,0 +1,26 @@
+{
+  "name": "equaltozero",
+  "version": "1.0.0",
+  "description": "How to use: Clone this repository npm intsall",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zorg-Moris/EqualToZero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zorg-Moris/EqualToZero/issues"
+  },
+  "homepage": "https://github.com/Zorg-Moris/EqualToZero#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
